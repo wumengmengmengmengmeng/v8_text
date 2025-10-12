@@ -3,4 +3,4 @@ val: data/valid/images
 test: data/test/images
 
 nc: 5
-names: ['bicycle', 'bollard', 'four-wheel', 'person', 'two-wheel']
+names: ["bicycle", "bollard", "four-wheel", "person", "two-wheel"]
