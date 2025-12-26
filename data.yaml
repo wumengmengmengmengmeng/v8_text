@@ -1,6 +1,8 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 train: data/train/images
 val: data/valid/images
 test: data/test/images
 
 nc: 5
-names: ['bicycle', 'bollard', 'four-wheel', 'person', 'two-wheel']
+names: ["bicycle", "bollard", "four-wheel", "person", "two-wheel"]
